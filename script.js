@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
       // Redirect to donation page when clicked
       donationFloat.addEventListener("click", () => {
-        window.location.href = "donation.html"
+        window.location.href = "https://mr.stuffmaker.net/donate"
       })
     }
   
